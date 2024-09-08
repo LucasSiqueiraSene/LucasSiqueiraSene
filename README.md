@@ -14,9 +14,9 @@ Meu nome é **Lucas** e tenho atualmente **18 anos** de idade, estou cursando **
 
 <div align="center">
 
-![Portuguese Brazil](https://img.icons8.com/?size=48&id=Mf5IDKBchhlr&format=png)
-![American English](https://img.icons8.com/?size=48&id=fIgZUHgwc76e&format=png)
-![German](https://img.icons8.com/?size=48&id=vRrbNnaD93Ys&format=png)
+![Portuguese Brazil](Icons/Brazil.png)
+![American English](Icons/United_States.png)
+![German](Icons/Germany.png)
 </div>
 
 <hr>
