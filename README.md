@@ -66,6 +66,7 @@
 <div align="center">
 
 This *README* file was created by: [@LucasSiqueiraSene](https://github.com/LucasSiqueiraSene)!<br>
+Last refresh: Sunday, 8 September, 2024, 15:45 BRT<br>
 [Create your own here!](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes)<br><br>
 ![Build Status](https://img.shields.io/badge/README_build-finished-00e864?logo=github)
 ![GitHub License](https://img.shields.io/github/license/LucasSiqueiraSene/LucasSiqueiraSene?logo=authelia)
