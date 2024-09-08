@@ -22,8 +22,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=LucasSiqueiraSene&radius=16&theme=tokyo-night&area=true&order=5&custom_title=Lucas%20S%20Sene%20%7C%20Gr%C3%A1fico%20de%20Contribui%C3%A7%C3%A3o%20&bg_color=151515&color=ffffff&point=ffffff&line=e00000" height="300" alt="activity-graph graph"  />
 </div>
 
-<hr>
-
 <h2 align="center"> Linguagens de Programação | Ambientes de desenvolvimento | Ferramentas</h2> <br>
 
 <div align="center">
@@ -62,3 +60,5 @@
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 </div>
+
+<hr>
