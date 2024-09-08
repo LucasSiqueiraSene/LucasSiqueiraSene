@@ -8,14 +8,14 @@
 Meu nome é **Lucas** e tenho atualmente **18 anos** de idade, estou cursando **Engenharia da Computação** no [Centro Universitário Facens](https://facens.br). Ainda sou um **novato** na área, estando apenas no **2 Semestre da Faculdade**, apesar disso estou buscando aprimorar minhas habilidades a qualquer custo, estou ciente que a jornada não é fácil, porém com o meu **autoconhecimento** sei que tenho **Determinação** e **Força de Vontade**.
 </div>
 
-<hr>
-
 <div align="center">
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucas.siqueira.sene/)
 [![Twitter](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=x)](https://x.com/LucasSSene)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucassiqueirasene/)
 </div>
+
+<hr>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LucasSiqueiraSene&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1&custom_title=Lucas%20S%20Sene%20%7C%20Estat%C3%ADstica" height="150" alt="stats graph"  />
