@@ -50,5 +50,5 @@ Meu nome é **Lucas** e tenho atualmente **18 anos** de idade, estou cursando **
 
 <div align="center">
   
-https://github.com/LucasSiqueiraSene/LucasSiqueiraSene/blob/output/github-contribution-grid-snake.gif
+![snake gif](https://github.com/LucasSiqueiraSene/LucasSiqueiraSene/blob/output/github-contribution-grid-snake.gif)
 </div>
