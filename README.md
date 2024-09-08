@@ -3,7 +3,7 @@
 <img src="banner.jpg" />
 
 <div align="center">
-<p>Meu nome é <b>Lucas</b> e tenho atualmente <b>18 anos</b> de idade, estou cursando <b>Engenharia da Computação</b> no Centro Universitário Facens. <u>Ainda sou um <b>novato</b> na área, estando apenas no <b>2 Semestre da Faculdade</b>, apesar disso estou buscando aprimorar minhas habilidades a qualquer custo</u>, estou ciente que a jornada não é fácil, porém com o meu <b>autoconhecimento</b> sei que tenho <b>Determinação</b> e <b>Força de Vontade</b>.</p>
+<p>Meu nome é <b>Lucas</b> e tenho atualmente <b>18 anos</b> de idade, estou cursando <b>Engenharia da Computação</b> no Centro Universitário Facens. Ainda sou um <b>novato</b> na área, estando apenas no <b>2 Semestre da Faculdade</b>, apesar disso estou buscando aprimorar minhas habilidades a qualquer custo, estou ciente que a jornada não é fácil, porém com o meu <b>autoconhecimento</b> sei que tenho <b>Determinação</b> e <b>Força de Vontade</b>.</p>
 </div>
 
 <hr>
