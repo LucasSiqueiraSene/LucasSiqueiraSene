@@ -1,7 +1,7 @@
 <h1 align="center"> Seja bem vindo ao meu perfil do GitHub!  <img src="https://emojis.slackmojis.com/emojis/images/1643515207/12254/stockrocket.gif?1643515207" width="35"/> </h2>
 
 <div align="center">
-<p>Meu nome é **Lucas** e tenho atualmente **18 anos** de idade, estou cursando **Engenharia da Computação** no Centro Universitário Facens. Ainda sou um **novato** na área, estando apenas no **2 Semestre da Faculdade**, apesar disso estou buscando aprimorar minhas habilidades a qualquer custo, estou ciente que a jornada não é fácil, porém com o meu **autoconhecimento** sei que tenho <b>Determinação</b> e <b>Força de Vontade</b>.</p>
+<p>Meu nome é <b>Lucas</b> e tenho atualmente <b>18 anos</b> de idade, estou cursando <b>Engenharia da Computação</b> no Centro Universitário Facens. Ainda sou um <b>novato</b> na área, estando apenas no <b>2 Semestre da Faculdade</b>, apesar disso estou buscando aprimorar minhas habilidades a qualquer custo, estou ciente que a jornada não é fácil, porém com o meu <b>autoconhecimento</b> sei que tenho <b>Determinação</b> e <b>Força de Vontade</b>.</p>
 </div>
 
 <hr>
