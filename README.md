@@ -18,7 +18,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LucasSiqueiraSene&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1&custom_title=Lucas%20S%20Sene%20%7C%20Estat%C3%ADstica" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasSiqueiraSene&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2&custom_title=Linguagens%20mais%20utilizadas" height="150" alt="languages graph"  /><br><br> <img src="verify.gif" />
-  <img src="https://streak-stats.demolab.com?user=LucasSiqueiraSene&locale=pt-br&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  /> <p> </p>  <img src="verify.gif" /> <br><br>
+  <img src="https://streak-stats.demolab.com?user=LucasSiqueiraSene&locale=pt-br&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  /> <img src="verify.gif" /> <p> </p> <br><br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=LucasSiqueiraSene&radius=16&theme=tokyo-night&area=true&order=5&custom_title=Lucas%20S%20Sene%20%7C%20Gr%C3%A1fico%20de%20Contribui%C3%A7%C3%A3o%20&bg_color=151515&color=ffffff&point=ffffff&line=e00000" height="300" alt="activity-graph graph"  />
 </div>
 
