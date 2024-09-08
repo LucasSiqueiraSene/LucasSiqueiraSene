@@ -3,14 +3,14 @@
 ![GitHub Views](https://komarev.com/ghpvc/?username=LucasSiqueiraSene)
 <img src="GitHub_Banner.jpg" />
 
-<h3>Sobre mim</h3>
++ <h3>Sobre mim</h3>
 
 <div align="center">
   
 Meu nome é **Lucas** e tenho atualmente **18 anos** de idade, estou cursando **Engenharia da Computação** no [Centro Universitário Facens](https://facens.br). Ainda sou um **novato** na área, estando apenas no **2 Semestre da Faculdade**, apesar disso estou buscando aprimorar minhas habilidades a qualquer custo, estou ciente que a jornada não é fácil, porém com o meu **autoconhecimento** sei que tenho **Determinação** e **Força de Vontade**.
 </div>
 
-<h3>Idiomas Experientes</h3>
++ <h3>Idiomas Experientes</h3>
 
 <div align="center">
 
