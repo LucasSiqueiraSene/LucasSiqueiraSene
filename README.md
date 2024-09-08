@@ -3,6 +3,8 @@
 ![GitHub Views](https://komarev.com/ghpvc/?username=LucasSiqueiraSene)
 <img src="GitHub_Banner.jpg" />
 
+<h3>Sobre mim</h3>
+
 <div align="center">
   
 Meu nome é **Lucas** e tenho atualmente **18 anos** de idade, estou cursando **Engenharia da Computação** no [Centro Universitário Facens](https://facens.br). Ainda sou um **novato** na área, estando apenas no **2 Semestre da Faculdade**, apesar disso estou buscando aprimorar minhas habilidades a qualquer custo, estou ciente que a jornada não é fácil, porém com o meu **autoconhecimento** sei que tenho **Determinação** e **Força de Vontade**.
@@ -13,6 +15,15 @@ Meu nome é **Lucas** e tenho atualmente **18 anos** de idade, estou cursando **
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucas.siqueira.sene/)
 [![Twitter](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=x)](https://x.com/LucasSSene)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucassiqueirasene/)
+</div>
+
+<h3>Idiomas Experientes</h3>
+
+<div align="center">
+
+![Portuguese Brazil](https://img.icons8.com/?size=48&id=Mf5IDKBchhlr&format=png)
+![American English](https://img.icons8.com/?size=48&id=fIgZUHgwc76e&format=png)
+![German](https://img.icons8.com/?size=48&id=vRrbNnaD93Ys&format=png)
 </div>
 
 <hr>
