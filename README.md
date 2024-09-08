@@ -45,3 +45,5 @@ Meu nome é **Lucas** e tenho atualmente **18 anos** de idade, estou cursando **
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
+
+![snake gif](https://github.com/LucasSiqueiraSene/LucasSiqueiraSene/blob/output/github-contribution-grid-snake.gif)
