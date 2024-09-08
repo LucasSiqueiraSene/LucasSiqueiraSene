@@ -64,7 +64,9 @@
 <hr>
 
 <div align="center">
-  
+
+This *README* file was created by: [@LucasSiqueiraSene](https://github.com/LucasSiqueiraSene)! 
+
 ![Static Badge](https://img.shields.io/badge/README_build-finished-00e864?logo=github)
 ![GitHub License](https://img.shields.io/github/license/LucasSiqueiraSene/LucasSiqueiraSene?logo=authelia)
 ![GitHub file size in bytes](https://img.shields.io/github/size/LucasSiqueiraSene/LucasSiqueiraSene/README.md?logo=readme&logoColor=ffffff)
