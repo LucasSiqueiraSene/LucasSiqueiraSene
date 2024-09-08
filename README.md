@@ -1,5 +1,6 @@
 <h1 align="center"> Seja bem vindo ao meu perfil do GitHub!  <img src="https://emojis.slackmojis.com/emojis/images/1643515207/12254/stockrocket.gif?1643515207" width="35"/> </h2>
 
+![GitHub Views](https://komarev.com/ghpvc/?username=LucasSiqueiraSene)
 <img src="banner.jpg" />
 
 <div align="center">
